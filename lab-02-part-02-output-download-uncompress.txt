@@ -18,7 +18,7 @@ $ echo hello
 
 Copy and paste the output below.
 ----------
-
+hello
 
 
 ==========
@@ -28,7 +28,7 @@ $ echo hello there
 
 Copy and paste the output below.
 ----------
-
+hello there
 
 
 ==========
@@ -38,7 +38,7 @@ $ echo good mornin'
 
 Copy and paste the output below.
 ----------
-
+good morning
 
 
 ==========
@@ -56,7 +56,7 @@ $ echo "good mornin'"
 
 Copy and paste the output below.
 ----------
-
+good morning
 
 
 ==========
@@ -66,7 +66,8 @@ $ echo *
 
 What happens?
 ----------
-
+Adlm Adobe Applications Desktop Documents Downloads Library MPLABXProjects Movies Music Pictures Public Things isus mtec1002 pymel.log stuff xgen
+ent-v314-016:~ student$ 
 
 
 ==========
